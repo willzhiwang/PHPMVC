@@ -1,5 +1,6 @@
 # PHPMVC
-##A custom mvc framework for Object Oriented PHP
+A custom mvc framework for Object Oriented PHP
+
 ##public folder:CSS and JS files
 ##app folder: All bankend folders of files
 ##config fodler: config your database, root directory sitename etc,
